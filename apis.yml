@@ -34,7 +34,7 @@ x-api-surface: none
 x-enrichment-note: Physical medical-device company with no public API, developer portal, or documentation
   surface; own domain (intersectent.com) is defunct with an expired TLS certificate. Products now live
   on Medtronic ENT product pages. No API artifacts are derivable without fabrication.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 tags:
